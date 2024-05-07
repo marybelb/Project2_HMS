@@ -33,8 +33,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/marybelb/health-monitoring-system.git
-   cd health-monitoring-system
+   git clone https://github.com/marybelb/Project2_HMS.git
+   cd Project2_HMS
 3. Set up the backend:
    
    ```cd backend
