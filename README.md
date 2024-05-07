@@ -31,6 +31,20 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/marybelb/health-monitoring-system.git
    cd health-monitoring-system
+3. Set up the backend:
+   
+   ```cd backend
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   pip install -r requirements.txt
+   flask run
+5. Set up the frontend:
+   
+   ```cd ../frontend
+   npm install
+   npm start
+
