@@ -47,4 +47,6 @@ These instructions will get you a copy of the project up and running on your loc
    ```cd ../frontend
    npm install
    npm start
+   
+4. Navigate to http://localhost:3000 to view the application.
 
