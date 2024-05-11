@@ -49,3 +49,28 @@ These instructions will get you a copy of the project up and running on your loc
    npm start
 4. Navigate to http://localhost:3000 to view the application.
 
+### Demo Pics
+
+<img width="1512" alt="Screenshot 2024-05-10 at 10 57 46 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/1d104793-b0b1-41cd-807e-22b83bc0a6b6">
+
+<img width="1512" alt="Screenshot 2024-05-10 at 11 09 27 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/7cb92a55-4bff-4732-b770-d5051a3ef212">
+
+<img width="1512" alt="Screenshot 2024-05-10 at 10 59 17 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/8c4bfde4-45f7-4b48-95eb-b52ac5a741e7">
+
+<img width="1512" alt="Screenshot 2024-05-10 at 10 59 31 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/72bc74bd-01d8-42bb-aa78-7247ff6820df">
+
+<img width="1512" alt="Screenshot 2024-05-10 at 11 06 04 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/a7fb7279-b2c7-4d98-9db2-14297af68f23">
+
+<img width="1512" alt="Screenshot 2024-05-10 at 11 06 25 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/f9af5ec1-8e49-430d-8ac2-505dbf8a20c7">
+
+<img width="1512" alt="Screenshot 2024-05-10 at 11 08 18 PM" src="https://github.com/marybelb/Project2_HMS/assets/91172956/a4d1b5d3-0007-495e-b8f9-260e588fcf70">
+
+
+
+
+
+
+
+
+
+
